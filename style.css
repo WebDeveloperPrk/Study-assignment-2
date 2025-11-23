@@ -1,0 +1,202 @@
+.main_header {
+
+    background-color: #000080;
+    height: 35px;
+    
+}
+
+.main_header a {
+
+    color: white;
+}
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   
+   
+    
+    
+    
+}
+
+nav li {
+
+    display: inline-block;
+    margin-right: 15px;
+    
+    
+}
+
+.nav_header_items {
+
+    position: relative;
+    top: 10px;
+    left: 15px;
+   
+
+}
+
+.gallery_container {
+
+    border: 1px solid blue;
+
+
+}
+
+.gallery_text {
+
+    color:#4169E1;
+    font-size: 19px;
+}
+
+
+.gallery p {
+
+    font-weight: 900;
+}
+
+.galleries_photo li {
+ 
+     font-size: 19px;
+    
+}
+
+.size_text {
+
+    font-size: 21px;
+}
+
+.lid_text {
+    font-size: 19px;
+}
+
+table {
+
+    border-collapse: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+}
+
+th, td {
+
+    border: 1px solid blue;
+    text-align: center;
+}
+
+.cell {
+
+ background-color:#DCDCDC;
+
+}
+
+.radio_button_list {
+    
+   margin-left: 50px;
+}
+
+.color_text {
+
+    color: #4682B4;
+
+    
+}
+
+
+.additional_color {
+
+
+    color:#1E90FF
+}
+
+
+
+.form_name {
+
+    border: 3px solid #6A5ACD;
+    padding: 5px;
+    width: 100%;
+}
+
+.form_name:focus {
+
+    border: 3px solid #6A5ACD;
+    outline: none;
+    
+   
+}
+
+.form_email {
+
+    border: 3px solid #6A5ACD;
+    padding: 5px;
+    width: 100%;
+
+}
+
+.form_email:focus {
+
+    border: 3px solid #6A5ACD;
+    outline: none;
+}
+
+.select_travel_direction {
+
+    border: 3px solid #6A5ACD;
+    padding: 5px;
+    width: 100%;
+}
+
+.select_travel_direction:focus {
+
+    border: 3px solid #6A5ACD;
+    outline: none;
+}
+
+
+.form_text_comments {
+
+    border: 3px solid #6A5ACD;
+    width: 100%;
+}
+
+.form_text_comments:focus {
+
+    order: 3px solid #6A5ACD;
+    outline: none;
+
+}
+
+.send_application, .clear_form {
+
+    border: 3px solid #6A5ACD;
+    padding: 5px;
+
+} 
+
+.main_footer p {
+
+    
+    text-align: center;
+    background-color: #6495ED;
+    height: 50px;
+    padding-top: 25px;
+    color: white;
+    
+    
+    
+}
+
+.contacts li {
+
+    font-size: 19px;
+}
+
+.contacts p {
+  
+    font-size: 21px;
+}
