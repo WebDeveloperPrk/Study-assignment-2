@@ -37,6 +37,7 @@ nav li {
 
     border: 1px solid blue;
     margin-top: 50px;
+    
 }
 
 .gallery_text {
@@ -98,7 +99,7 @@ th, td {
 .color_text {
 
     color: #4682B4;
-    padding-top: 0;
+    scroll-margin-top: 35px;
     
 }
 
@@ -208,7 +209,9 @@ th, td {
 .lid {
 
   margin-top: 50px;
+  
 }
+
 
 
 
