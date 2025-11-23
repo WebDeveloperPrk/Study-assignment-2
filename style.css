@@ -36,18 +36,21 @@ nav li {
 .gallery_container {
 
     border: 1px solid blue;
+    margin-top: 50px;
 }
 
 .gallery_text {
 
     color:#4169E1;
     font-size: 19px;
+    
 }
 
 
 .gallery p {
 
     font-weight: 900;
+    
 }
 
 .galleries_photo li {
@@ -55,6 +58,7 @@ nav li {
      font-size: 19px;
     
 }
+
 
 .size_text {
 
@@ -94,6 +98,7 @@ th, td {
 .color_text {
 
     color: #4682B4;
+    padding-top: 0;
     
 }
 
@@ -204,6 +209,8 @@ th, td {
 
   margin-top: 50px;
 }
+
+
 
 
 
